@@ -1,0 +1,10 @@
+﻿  engine.cpp
+  graphics.cpp
+c:\users\acer\source\repos\tower of hanoi\tower of hanoi\graphics.cpp(65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\acer\source\repos\tower of hanoi\tower of hanoi\graphics.cpp(75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\acer\source\repos\tower of hanoi\tower of hanoi\graphics.cpp(122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+c:\users\acer\source\repos\tower of hanoi\tower of hanoi\engine.cpp(55): warning C4715: 'getx': not all control paths return a value
+c:\users\acer\source\repos\tower of hanoi\tower of hanoi\engine.cpp(85): warning C4715: 'gety': not all control paths return a value
+  Tower of hanoi.vcxproj -> C:\Users\Acer\source\repos\Tower of hanoi\Debug\Tower of hanoi.exe
